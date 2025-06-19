@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSIT Student at Prithvi Narayan Campus, Pokhara<br><br>💻 Aspiring Django Developer with a strong focus on building real-world web applications<br><br>🧠 Learning about Java Core, Multi-Tenancy, and Full-stack development<br><br>🧩 Enjoy solving real-world problems through code and building solutions that make an impact<br><br>🤖 Have some interest in AI/ML and Data Science<br><br>🌱 Drawn to personal growth, social engagement, and contributing to community-driven initiatives<br><br><br>⚽ Enjoys playing football and staying active outside of tech<br><br>🤝 Always open to collaborating on meaningful tech projects – just DM me
+🎓 CSIT Student at Prithvi Narayan Campus, Pokhara<br><br>💻 Aspiring Django Developer with a strong focus on building real-world web applications<br><br>🧠 Learning about Java Core, Multi-Tenancy, and Full-stack development<br><br>🧩 Enjoy solving real-world problems through code and building solutions that make an impact<br><br>🤖 Have some interest in AI/ML and Data Science<br><br>🌱 Drawn to personal growth, social engagement, and contributing to community-driven initiatives<br><br>⚽ Enjoys playing football and staying active outside of tech<br><br>🤝 Always open to collaborating on meaningful tech projects – just DM me
 
 
 ## 🌐 Socials:
